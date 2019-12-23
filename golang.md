@@ -1,0 +1,3 @@
+build recursively, copy binaries in `.`:
+
+    GOBIN=`pwd` go install ./...
